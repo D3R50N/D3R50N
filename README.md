@@ -1,6 +1,7 @@
-### Hello guys👋
+<center>
+  ### Hello guys👋
 
-<img src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif" style="border-radius: 5px; margin-bottom: 10px" height=200>
+<img src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif" style="border-radius: 5px; margin-bottom: 10px" height=200></center>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a video streaming app
