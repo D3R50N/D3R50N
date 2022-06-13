@@ -48,7 +48,7 @@
 <!--END_SECTION:waka-->
 |       |
 |  ---        |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D3R50N&hide_border=true)](https://git.io/streak-stats)     |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D3R50N&theme=black-ice&hide_border=true)](https://git.io/streak-stats)     |
 <!--   https://github-readme-streak-stats.herokuapp.com?user=D3R50N&theme=black-ice&hide_border=true -->
 
 <!-- [![Medium](https://img.shields.io/badge/Medium-000000?&style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/@juniormedehou)
