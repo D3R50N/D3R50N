@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**D3R50N/D3R50N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello guys👋
 
 <img src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif" style="border-radius: 5px; margin-bottom: 10px">
 Here are some ideas to get you started:
@@ -14,8 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-### Hello World ! <img height="30" src="https://media0.giphy.com/media/QTlmH8hEoVoi83mdJC/200w.webp?cid=ecf05e475gkndp9379fxllqfhbet5s7wigrkj492lpi0go0s&rid=200w.webp"></img>
+
+
 
 
 ---
