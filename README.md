@@ -52,7 +52,7 @@
 <!--   https://github-readme-streak-stats.herokuapp.com?user=D3R50N&theme=black-ice&hide_border=true -->
 
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/happy_dev.229/)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/happy_dev229/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](happydev229@gmail.com)
 !["](https://komarev.com/ghpvc/?username=D3R50N&label=My%20views&color=brightgreen&style=for-the-badge) 
