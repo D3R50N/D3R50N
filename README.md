@@ -48,13 +48,13 @@
 <!--END_SECTION:waka-->
 |       |
 |  ---        |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=D3R50N&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)    |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=D3R50N&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DDDDDD)](https://git.io/streak-stats)    |
 <!--   https://github-readme-streak-stats.herokuapp.com?user=D3R50N&theme=black-ice&hide_border=true -->
 
-<!-- [![Medium](https://img.shields.io/badge/Medium-000000?&style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/@juniormedehou)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/juniormedehou_/)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniormedehou/)
-[![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](juniormedehou@gmail.com)
-!["](https://komarev.com/ghpvc/?username=NemesisX1&label=Profile%20views&color=0e75b6&style=flat) -->
+
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/happy_dev.229/)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](happydev229@gmail.com)
+!["](https://komarev.com/ghpvc/?username=NemesisX1&label=Profile%20views&color=0e75b6&style=flat) 
 
 </div>
