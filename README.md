@@ -16,7 +16,7 @@
 ***Tools & Technologies***:
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![MaterialUI](https://img.shields.io/badge/materialui-%230089BE5.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
+![MaterialUI](https://img.shields.io/badge/materialui-%23039BE5.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
 ![Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
