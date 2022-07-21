@@ -1,6 +1,6 @@
 
 ### Hello guys👋
-<img src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif" style="border-radius: 5px; width:100%; margin-bottom: 10px" height=300 width=1000>
+<img src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif" style="border-radius: 5px; width:100%; margin-bottom: 10px" height=300 width=600>
 
 - 🫡 I'm Max Andy Moumouni, but you can call me Happy Dev
 - 🔭 I’m currently working on a video streaming app in **Flutter**
