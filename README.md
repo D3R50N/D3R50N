@@ -29,5 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3r50n&show_icons=true&locale=en" alt="d3r50n" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d3r50n&" alt="d3r50n" /></p>
+<p>[https://github-readme-streak-stats.herokuapp.com/?user=d3r50n&" alt="d3r50n](https://github-readme-streak-stats.herokuapp.com/?user=D3R50N&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DDDDDD)"</p>
 
