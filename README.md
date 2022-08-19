@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Max Andy Moumouni</h1>
 <h3 align="center">A passionate programming from Benin (a beautiful country in Africa)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d3r50n&label=Profile%20views&color=0e75b6&style=flat" alt="d3r50n" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3r50n" alt="d3r50n" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3r50n" alt="d3r50n" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/happy_dev229" target="blank"><img src="https://img.shields.io/twitter/follow/happy_dev229?logo=twitter&style=for-the-badge" alt="happy_dev229" /></a> </p>
+<p align="center"> <a href="https://twitter.com/happy_dev229" target="blank"><img src="https://img.shields.io/twitter/follow/happy_dev229?logo=twitter&style=for-the-badge" alt="happy_dev229" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=d3r50n&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="d3r50n" /> </p>
 
 - 🔭 I’m currently working on **Anime Streaming App in Flutter**
 
