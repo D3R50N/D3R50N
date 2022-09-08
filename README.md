@@ -4,8 +4,10 @@
 <p align="center">&nbsp;
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=d3r50n&show_icons=true&locale=en&theme=vue-dark&hide_border=true" alt="d3r50n" />
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=D3R50N&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DDDDDD" alt="d3r50n" />
- <p align="center"></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=d3r50n&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true" alt="d3r50n" /></p>
+ <p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=d3r50n&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true" alt="d3r50n" />
+  </p>
+</p>
 
 
  <p align="center"> <a href="https://twitter.com/happy_dev229" target="blank"><img src="https://img.shields.io/twitter/follow/happy_dev229?logo=twitter&style=for-the-badge" alt="happy_dev229" /></a> <img src="https://komarev.com/ghpvc/?username=d3r50n&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="d3r50n" /></p>
