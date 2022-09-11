@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max Andy Moumouni</h1>
-<h3 align="center">A passionate programming from Benin (a beautiful country in Africa)</h3>
+<h3 align="center">A passionate programmer from Benin (a beautiful country in Africa)</h3>
 
 <p align="center">&nbsp;
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=d3r50n&show_icons=true&locale=en&theme=vue-dark&hide_border=true" alt="d3r50n" /></p>
