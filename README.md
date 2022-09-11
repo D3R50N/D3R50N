@@ -14,7 +14,7 @@
  <p align="center"> <a href="https://twitter.com/happy_dev229" target="blank"><img src="https://img.shields.io/twitter/follow/happy_dev229?logo=twitter&style=for-the-badge" alt="happy_dev229" /></a> <img src="https://komarev.com/ghpvc/?username=d3r50n&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="d3r50n" /></p>
 
 
-- 🔭 I’m currently working on **Anime Streaming App in Flutter**
+- 🔭 I’m currently working on a **Money spendings manager app in Flutter**
 
 - 🌱 I’m currently learning **VueJs**
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **happydev.229@gmail.com**
 
-- ⚡ Fun fact **I need to sleep before coding, but I can't sleep without coding**
+- ⚡ Fun fact : **Where do boostrap programmers gather to drink ? In the nav bar 🍻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
