@@ -2,6 +2,12 @@
 <h3 align="center">A passionate programmer from Benin (a beautiful country in Africa)</h3>
 
 <p align="center">&nbsp;
+ 
+<p align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D3R50N&theme=tokyonight" alt="d3r50n" />
+  </p>
+ 
+
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=d3r50n&show_icons=true&locale=en&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="d3r50n" /></p>
  <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=D3R50N&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DDDDDD" alt="d3r50n" /></p>
@@ -35,5 +41,3 @@
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3r50n&theme=nord&column=4&margin-w=15&margin-h=15&no-bg=true" alt="d3r50n" /></a> </p>
-
-
