@@ -3,10 +3,19 @@
 
 <p align="center">&nbsp;
  
+ <h3 align="center">My Global Stats</h3>
 <p align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D3R50N&theme=tokyonight" alt="d3r50n" />
-  </p>
+ </p>
  
+  </br>
+ <h3 align="center">Recently finished project :</h3>
+ <p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=D3R50N&repo=my-spendings&theme=tokyonight&show_owner=true" alt="d3r50n" />
+ </p>
+  
+ </br>
+ <h3 align="center">Others stats</h3>
 
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=d3r50n&show_icons=true&locale=en&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="d3r50n" /></p>
  <p align="center">
