@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **happydev.229@gmail.com**
 
-- ⚡ Fun fact : **Where do boostrap programmers meet to drink ? In the nav bar 🍻**
+- ⚡ Fun fact : **I don't drink coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
