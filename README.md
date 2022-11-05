@@ -18,15 +18,11 @@
   
  </p>
 
-- 🔭 I’m currently working on a **Money spendings manager app in Flutter**
-
-- 🌱 I’m currently learning **VueJs**
-
-- 💬 Ask me about **flutter, nodejs, javascript, react, c++ and c#**
-
-- 📫 How to reach me **happydev.229@gmail.com**
-
-- ⚡ Fun fact : **I don't drink coffee.**
+🔭 I’m currently working on a **Money spendings manager app in Flutter** </br>
+🌱 I’m currently learning **VueJs**</br>
+💬 Ask me about **flutter, nodejs, javascript, react, c++ and c#**</br>
+📫 How to reach me **happydev.229@gmail.com**</br>
+⚡ Fun fact : **I don't drink coffee.**</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
