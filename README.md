@@ -1,9 +1,14 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Max Andy Moumouni</h1>
-<h3 align="center">A passionate programmer from Benin (a beautiful country in Africa)</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Max Andy Moumouni
 
+
+ <p align="center"> <a href="https://twitter.com/happy_dev229" target="blank"><img src="https://img.shields.io/twitter/follow/happy_dev229?logo=twitter&style=for-the-badge" alt="happy_dev229" /></a> <img src="https://komarev.com/ghpvc/?username=d3r50n&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="d3r50n" /></p>
+
+
+</h1>
+
+<p align="center"></p>
 <p align="center">&nbsp;
-  
-
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00B685&center=true&vCenter=true&width=800&height=70&lines=Max+Anderson+MOUMOUNI%2C+as+Happy+Dev.;Fullstack+Web+and+Mobile+Dev.%F0%9F%92%BB;3%2B+years+of+experience.%F0%9F%8E%93;Love+learning+new+things+%E2%9D%A4%EF%B8%8F;Don't+drink+coffee+%F0%9F%8D%B5..but+love+Java" alt="Typing SVG" /></a>
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=d3r50n&show_icons=true&locale=en&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="d3r50n" /></p>
  <p align="center">
   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=D3R50N&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DDDDDD" alt="d3r50n" /></p>
@@ -12,10 +17,6 @@
   </p>
   
  </p>
-
-
- <p align="center"> <a href="https://twitter.com/happy_dev229" target="blank"><img src="https://img.shields.io/twitter/follow/happy_dev229?logo=twitter&style=for-the-badge" alt="happy_dev229" /></a> <img src="https://komarev.com/ghpvc/?username=d3r50n&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="d3r50n" /></p>
-
 
 - 🔭 I’m currently working on a **Money spendings manager app in Flutter**
 
