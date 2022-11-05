@@ -8,7 +8,7 @@
 
 <p align="center"></p>
 <p align="center">&nbsp;
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00B685&center=true&vCenter=true&width=800&height=70&lines=Max+Anderson+MOUMOUNI%2C+as+Happy+Dev.;Fullstack+Web+and+Mobile+Dev.%F0%9F%92%BB;3%2B+years+of+experience.%F0%9F%8E%93;Love+learning+new+things+%E2%9D%A4%EF%B8%8F;Don't+drink+coffee+%F0%9F%8D%B5..but+love+Java" alt="Typing SVG" /></a>
+ <a href="https://github.com/D3R50N/My-Spendings"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00B685&center=true&vCenter=true&width=800&height=70&lines=Max+Anderson+MOUMOUNI%2C+as+Happy+Dev.;Fullstack+Web+and+Mobile+Dev.%F0%9F%92%BB;3%2B+years+of+experience.%F0%9F%8E%93;Love+learning+new+things+%E2%9D%A4%EF%B8%8F;Don't+drink+coffee+%F0%9F%8D%B5..but+love+Java" alt="Typing SVG" /></a>
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=d3r50n&show_icons=true&locale=en&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="d3r50n" /></p>
  <p align="center">
   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=D3R50N&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DDDDDD" alt="d3r50n" /></p>
