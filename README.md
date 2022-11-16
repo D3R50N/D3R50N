@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Max Andy Moumouni
 
 
- <p align="center"> <a href="https://twitter.com/happy_dev229" target="blank"><img src="https://img.shields.io/twitter/follow/happy_dev229?logo=twitter&style=for-the-badge" alt="happy_dev229" /></a> <img src="https://komarev.com/ghpvc/?username=d3r50n&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="d3r50n" /></p>
+ <p align="center"> <a href="https://twitter.com/_happydev_" target="blank"><img src="https://img.shields.io/twitter/follow/_happydev_?logo=twitter&style=for-the-badge" alt="_happydev_" /></a> <img src="https://komarev.com/ghpvc/?username=d3r50n&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="d3r50n" /></p>
 
 
 </h1>
