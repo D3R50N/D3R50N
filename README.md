@@ -46,6 +46,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=D3R50N&repo=my-spendings&theme=tokyonight&show_owner=true" alt="d3r50n" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=D3R50N&repo=make-my-choice-spinner&theme=tokyonight&show_owner=true" alt="d3r50n" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=D3R50N&repo=text-checker&theme=tokyonight&show_owner=true" alt="d3r50n" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=D3R50N&repo=brainz&theme=tokyonight&show_owner=true" alt="d3r50n" />
  </p>
 
 
