@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Max Andy Moumouni </h1>
 </br>
+h
 <p align="center">
- <a href="https://app.daily.dev/D3R50N"><img src="https://api.daily.dev/devcards/d2dd818b9dc04a238670725b65736c3a.png?r=eka" width="200" alt="Max Anderson MOUMOUNI's Dev Card"/></a>
+![Frame](https://github.com/D3R50N/D3R50N/assets/67974781/d5ff5116-ae15-4c51-97f6-fb8ca917e33c)
 </p>
 
  <p align="center"> <a href="https://twitter.com/_maxdev" target="blank"><img src="https://img.shields.io/twitter/follow/_maxdev?logo=twitter&style=for-the-badge" alt="_maxdev" /></a> <img src="https://komarev.com/ghpvc/?username=d3r50n&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="d3r50n" /></p>
-
 
 
 
