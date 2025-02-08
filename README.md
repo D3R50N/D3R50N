@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Max Andy Moumouni </h1>
 </br>
-<p>I'm currently workinf on EXPRESSO<br></p>
+<p align="center">I'm currently working on EXPRESSO<br></p>
 
 
  <p align="center"> <a href="https://raw.githubusercontent.com/D3R50N/D3R50N/b3350572fe3da14caf602ed8cbc3f0470ad5659f/expresso.svg" target="blank"> <img src="https://raw.githubusercontent.com/D3R50N/D3R50N/b3350572fe3da14caf602ed8cbc3f0470ad5659f/expresso.svg" alt="SharexApp" /></p>
